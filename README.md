@@ -5,7 +5,7 @@
 ## Summary
 - [Control Categories](#control-categories)
 - [Botium Toys: Scope Report, Objectives, and Risk Assessment](#botium-toys---scope-report-objectives-and-risk-assessment)
-- [Controls and compliance checklist (pdf)]()
+- [Controls and compliance checklist (pdf)](https://github.com/mariarithanascimento/botium-audit/blob/885c0207431855a2cfd7c493165602131362b7fc/Controls%20and%20compliance%20checklist.pdf)
 
 ## `Control Categories`
 
